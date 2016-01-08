@@ -1,0 +1,4 @@
+http://www.kixor.net/dev/objloader/
+The code is free and public domain.
+You may use it as you desire.
+No credit is needed. Enjoy! 

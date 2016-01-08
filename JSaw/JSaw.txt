@@ -1,0 +1,1 @@
+./Debug/src_main.cpp.o ./Debug/src_face.cpp.o ./Debug/src_vertex.cpp.o ./Debug/objTester_list.cpp.o ./Debug/objTester_obj_parser.cpp.o ./Debug/objTester_objLoader.cpp.o ./Debug/objTester_string_extra.cpp.o   
